@@ -1,0 +1,22 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#9648
+    [34mall[39m: [
+      [34;4mApp\Models\Dosen[39;24m {#9722
+        [34mid[39m: [35m1[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mnip[39m: [32m"[39m[32m11112222[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32milona[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Dosen[39;24m {#9721
+        [34mid[39m: [35m2[39m,
+        [34muser_id[39m: [35m2[39m,
+        [34mnip[39m: [32m"[39m[32m33334444[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mmbah kanjut[39m[32m"[39m,
+      },
+      [34;4mApp\Models\Dosen[39;24m {#9723
+        [34mid[39m: [35m3[39m,
+        [34muser_id[39m: [35m4[39m,
+        [34mnip[39m: [32m"[39m[32m22221111[39m[32m"[39m,
+        [34mnama[39m: [32m"[39m[32mlery[39m[32m"[39m,
+      },
+    ],
+  }
